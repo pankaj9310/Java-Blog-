@@ -16,8 +16,8 @@ import java.util.*;
 public class MailVerify {
 
     String code;
-    String d_email = "iiit.pankajchaudhary@gmail.com",
-d_password = "9024674187",
+    String d_email = "mail@gmail.com",
+d_password = "password",
 d_host = "smtp.gmail.com",
 d_port = "465",
 m_subject = "Varification Process",
